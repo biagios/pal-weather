@@ -3,6 +3,8 @@
 This is a copy of a really simple webhook implementation that gets API.AI (dialogflow.com) classification JSON and returns a fulfillment response.
 It has been modified to return Celsius temperature instead of Farenheit.
 
+Used for [pal bot](https://github.com/sleme/pal-bot)'s weather service.
+
 More info about API.AI (dialogflow.com) webhooks could be found here:
 [API.AI (dialogflow.com) Webhook](https://docs.api.ai/docs/webhook)
 
