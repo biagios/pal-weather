@@ -1,4 +1,4 @@
-# Api.ai - sample webhook implementation in Python
+# API.AI (dialogflow.com) - sample webhook implementation in Python
 
 This is a copy of a really simple webhook implementation that gets API.AI (dialogflow.com) classification JSON and returns a fulfillment response.
 It has been modified to return Celsius temperature instead of Farenheit.
