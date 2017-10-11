@@ -7,11 +7,13 @@ More info about API.AI (dialogflow.com) webhooks could be found here:
 [API.AI (dialogflow.com) Webhook](https://docs.api.ai/docs/webhook)
 
 
-# What does the service do?
-
-
 ## License
-See [LICENSE](LICENSE).
+   Copyright [2015] matthewayne
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License [here](LICENSE)
+
 
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Google APIs Terms of Service](https://developers.google.com/terms/).
